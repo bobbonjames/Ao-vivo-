@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-768x768.png" group-title="Esporte", TNT Sports 1
+https://superflix.site/?trembed=0&trid=5884&trtype=1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-768x768.png" group-title="Esporte", TNT Sports  2
+https://superflix.site/?trembed=0&trid=5886&trtype=1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-768x768.png" group-title="Esporte", TNT Sports 3
+https://superflix.site/?trembed=0&trid=5888&trtype=1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-768x768.png" group-title="Esporte", TNT Sports 4
+https://superflix.site/?trembed=0&trid=5890&trtype=1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0-768x768.png" group-title="Esporte", TNT Sports 5
+https://superflix.site/?trembed=0&trid=5892&trtype=1
